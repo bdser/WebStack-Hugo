@@ -46,7 +46,7 @@
     - term: 币圈
       links:
         - title: tradingview
-          logo: 
+          logo: https://cn.tradingview.com/favicon.ico
           url: https://www.tradingview.com/
           description: 看盘工具
 
