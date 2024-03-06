@@ -48,7 +48,7 @@
         - title: tradingview
           logo: cpan.jpg
           url: https://cn.tradingview.com/
-          description: "看盘软件"
+          description: 看盘软件
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
