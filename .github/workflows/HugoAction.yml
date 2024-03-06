@@ -1,31 +1,31 @@
-name: GitHub Pages
+name: Hugo Actions # 名字自取
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
-  pull_request:
+      - main  # 这里的意思是当 main 分支发生 push 的时候，运行下面的 jobs
 
 jobs:
-  deploy:
-    runs-on: ubuntu-20.04
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  deploy: 
+    runs-on: ubuntu-20.04 	# 在什么环境运行任务
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3   # 引用 actions/checkout 这个 action，与所在的 github 仓库同名
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+         submodules: true  # Fetch Hugo themes (true OR recursive) 获取 submodule 主题
+         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+         
+      - name: Setup Hugo	# 步骤名自取
+        uses: peaceiris/actions-hugo@v2   # Hugo 官方提供的 action，用于在任务环境中获取 hugo
         with:
-          hugo-version: '0.111.3'
-          # 是否启用 hugo extend
-          extended: true
+          hugo-version: '0.122.0'	# 获取指定版本的 hugo
+          extended: false
 
-      - name: Build
-        run: hugo --minify
+      - name: Build Site
+        run: |
+          pwd
+          ls
+          cp -R exampleSite/* .
+          hugo --themesDir ../ --baseURL https://dao.bdaer.cc/
           
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
