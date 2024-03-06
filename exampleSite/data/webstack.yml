@@ -39,7 +39,16 @@
       logo: 关注.jpg
       url: https://www.bioitee.com
       qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！     
+      description: 微信公众号：BioIT 爱好者！   
+- taxonomy: 投资
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 币圈
+      links:
+        - title: tradingview
+          logo: 
+          url: https://www.tradingview.com/
+          description: 看盘工具
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
