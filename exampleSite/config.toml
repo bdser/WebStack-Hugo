@@ -8,6 +8,7 @@ hasCJKLanguage        = true
 publishDir            = "public"				# 站点静态文件保存目录
 
 
+
 [params]
     author        = "bdser"
     description   = "bdser网址导航"
