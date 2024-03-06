@@ -1,7 +1,7 @@
 baseURL               = "https://dao.bdser.cc"
 languageCode          = "zh-CN"
 title                 = "bdser 网址导航"
-theme                 = "bdser"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
