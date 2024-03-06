@@ -25,7 +25,7 @@ jobs:
           pwd
           ls
           cp -R exampleSite/* .
-          hugo --themesDir ../ --baseURL https://dao.bdser.cc/
+          hugo --themesDir ../  --minify  
           
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3	  # 一个自动发布 github pages 的 action
