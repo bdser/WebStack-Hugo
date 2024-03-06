@@ -26,6 +26,11 @@ jobs:
           ls
           cp -R exampleSite/* .
           hugo --themesDir ../  --baseURL   https://dao.bdser.cc/
+      # 创建 CNAME，这个是原始配置中没有的
+      - uses: "finnp/create-file-action@master"
+        env:
+          FILE_NAME: "./public/CNAME"
+          FILE_DATA: "dao.bdser.cc"
           
           
       - name: Deploy Pages
