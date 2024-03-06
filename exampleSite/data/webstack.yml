@@ -40,6 +40,8 @@
       url: https://www.bioitee.com
       qrcode: qrcode.jpg
       description: 微信公众号：BioIT 爱好者！
+
+      
 - taxonomy: 投资   
   icon: fas fa-flask fa-lg
   list: 
@@ -49,6 +51,21 @@
           logo: cpan.jpg
           url: https://cn.tradingview.com/
           description: 看盘软件
+
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
+    - term: 资讯书籍
+      links:
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版。
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。      
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
