@@ -42,7 +42,7 @@
           url: https://www.aicoin.com/chart/binance_btcusdt
           description: 国人看盘工具
         - title: Crypto Bubbles
-          logo: https://cryptobubbles.net/
+          logo: https://cryptobubbles.net/favicon.ico
           url: https://cryptobubbles.net/
           description: 非常推荐，通过气泡图的形式展示加密货币
 
@@ -149,25 +149,6 @@
           logo: https://www.cls.cn/favicon.ico
           url: https://www.cls.cn/
           description: "股票新闻早知道"
-        - title: 
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-
-    - term: 股票工具
-      links:
         - title: 股票基金管家助手
           logo: https://www.yuque.com/pushu-pf2s6/byk59w/qgrlhy
           url: https://www.yuque.com/pushu-pf2s6/byk59w/qgrlhy
@@ -180,6 +161,10 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
+
+- taxonomy: 码农专区
+  icon: fas fa-film fa-lg
+  list: 
     - term: 云服务器
       links:
         - title: 阿里云
