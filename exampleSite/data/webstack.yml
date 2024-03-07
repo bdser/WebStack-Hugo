@@ -31,13 +31,110 @@
 - taxonomy: 币圈信息
   icon: fas fa-flask fa-lg
   list:
-    - term: 币圈站点
+    - term: 看盘工具
       links:
         - title: tradingview
           logo: https://cn.tradingview.com/favicon.ico
           url: https://www.tradingview.com/
-          description: 看盘工具
+          description: 专业看盘工具
 
+        - title: aicoinf
+          logo: https://www.aicoin.com/favicon.ico
+          url: https://www.aicoin.com/zh-CN
+          description: 国人看盘工具
+        - title: tradingview
+          logo: https://cn.tradingview.com/favicon.ico
+          url: https://www.tradingview.com/
+          description: 看盘工具
+        - title: 金色财经
+          logo: https://www.jinse.cn/favicon.ico
+          url: hhttps://www.jinse.cn/
+          description: 国内区块链行业最具影响力的媒体平台之一
+    - term: 币圈数据
+      links:
+        - title: CoinMarketCap
+          logo: https://coinmarketcap.com/favicon.ico
+          url: https://coinmarketcap.com/       
+          description: 一个追踪加密货币数据的网站
+        - title: CoinGecko
+          logo: https://www.coingecko.com/favicon.ico
+          url: https://www.coingecko.com/
+          description: 一个非常受欢迎的综合性的加密货币数据平台
+        - title: CoinCarp
+          logo: https://www.coincarp.com/favicon.ico
+          url: https://www.coincarp.com/zh/
+          description: 行情数据、新闻资讯、代币信息
+        - title: CoinGlass
+          logo: https://www.coinglass.com/favicon.ico
+          url: https://www.coinglass.com/zh/LiquidationData 
+          description: 币圈合约数据网站
+        - title: Crypto Bubbles
+          logo: https://cryptobubbles.net/
+          url: https://cryptobubbles.net/
+          description: 非常推荐，通过气泡图的形式展示加密货币
+    - term: 链上数据
+      links:
+        - title: Memepool
+          logo: https://mempool.space/zh/favicon.ico
+          url: https://mempool.space/zh/
+          description: 铭文，比特币专用的区块浏览器
+        - title: DeBank
+          logo: https://revoke.cash/zh/favicon.ico
+          url: https://revoke.cash/zh
+          description: 一个加密资产信息管理平台和跟踪工具
+        - title: Revoke
+          logo: https://www.coincarp.com/favicon.ico
+          url: https://www.coincarp.com/zh/
+          description: 一个帮助你解除钱包授权的网站
+        - title: ICO Analytics
+          logo: https://icoanalytics.org/favicon.ico
+          url: https://icoanalytics.org/
+          description: 空投，一个全面的融资信息查询工具
+        - title: Crypto Bubbles
+          logo: https://cryptobubbles.net/
+          url: https://cryptobubbles.net/
+          description: 非常推荐-通过气泡图的形式展示加密货币
+        - title: RootData
+          logo: https://www.rootdata.com/favicon.ico
+          url: https://www.rootdata.com/
+          description: 所在链、团队、投资背景、相关新闻
+    
+    - term: 数据分析
+      links:
+        - title: Glassnode
+          logo: https://studio.glassnode.com/favicon.ico
+          url: https://studio.glassnode.com/home   
+          description: 一个代币深度分析网站，其网站上收集的代币有限
+        - title: DappRadarf
+          logo: https://dappradar.com/favicon.ico
+          url: https://dappradar.com/
+          description: 一个非常受欢迎的综合性的加密货币数据平台
+        - title: Token Terminal
+          logo: https://tokenterminal.com/favicon.ico
+          url: https://tokenterminal.com/terminal
+          description: Web3行业里最好用的费用和收入统计数据网站
+        - title: Nansen
+          logo: https://app.nansen.ai/favicon.ico
+          url: https://app.nansen.ai/ 
+          description: 行业领先的区块链分析平台
+        - title: Arkham
+          logo: https://www.arkhamintelligence.com/favicon.ico
+          url: https://www.arkhamintelligence.com/
+          description: 一个加密智能分析平台,追踪聪明钱地址，帮你做好投资决策
+        - title: Dune
+          logo: https://dune.com/favicon.ico
+          url: https://dune.com/browse/dashboards
+          description:  撸毛策略，Web3行业最重要的链上数据分析工具之一
+    - term: 链上土狗
+      links:
+        - title: DexScreener
+          logo: https://dexscreener.com/favicon.ico
+          url: https://dexscreener.com/
+          description: 一个链上代币的看盘工具，任何新币都可以在这里查到
+        - title: GeckoTermial
+          logo: https://www.geckoterminal.com/favicon.ico
+          url: https://www.geckoterminal.com/zh
+          description: 所有土狗链上代币交易对的分析图表和资金池状态
 - taxonomy: 股票
   icon: fas fa-flask fa-lg
   list:
