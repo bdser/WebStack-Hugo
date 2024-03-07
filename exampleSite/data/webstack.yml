@@ -1,5 +1,11 @@
 ---
-
+- taxonomy: 作者站点
+  icon: fas fa-medal
+  links: 
+    - title: 博客
+      logo: https://blog.bdser.cc/favicon.ico
+      url: https://blog.bdser.cc
+      description: 作者博客
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
@@ -325,7 +331,7 @@
           url: https://fliki.ai/
           description: AI 文字转视频并配音
 - taxonomy: 运维专区
-  icon: far fa-folder-open fa-lg
+  icon: fab fa-github
   list:
     - term: 运维工具
       links:
