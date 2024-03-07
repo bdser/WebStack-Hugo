@@ -132,7 +132,7 @@
           url: https://www.geckoterminal.com/zh
           description: 所有土狗链上代币交易对的分析图表和资金池状态
 - taxonomy: 股票
-  icon: fas fa-flask fa-lg
+  icon: fas fa-film fa-lg
   list:
     - term: 股票站点
       links:
@@ -158,7 +158,7 @@
           description: 免费在线作图、实时协作。
 
 - taxonomy: 码农专区
-  icon: fas fa-film fa-lg
+  icon: fas fa-briefcase fa-lg
   list: 
     - term: 云服务器
       links:
