@@ -225,14 +225,14 @@
   list:
     - term: AI网红
       links: 
-        - title: claude 3
-          logo: https://www.finechat.ai/favicon.ico
-          url: https://www.finechat.ai/
-          description: 免费访问claude 3
-        - title: 文心一言
-          logo: https://yiyan.baidu.com/favicon.ico
-          url: https://yiyan.baidu.com/welcome
-          description: 国内版 GPT，需要申请账号，协助写作，回答问题
+        - title: AI导航大全
+          logo: https://www.chat2ai.cn/favicon.ico
+          url: https://www.chat2ai.cn/
+          description: AI导航大全
+        - title: FreeChatGPT
+          logo: https://cc.ai55.cc/favicon.ico
+          url: https://cc.ai55.cc/
+          description: 免费好用的ChatGPT站点列表
         
     - term: AI工具
       links:
