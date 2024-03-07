@@ -180,7 +180,12 @@
           logo: 青椒云.jpg
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
-        
+    - term: 资源工具
+      links:
+        - title: zlibrary电子书
+          logo: https://zh.zlibrary-global.se/favicon.ico
+          url: https://zh.zlibrary-global.se/
+          description: 做权威的电子免费下载网站
 
 - taxonomy: 命理学习
   icon: fas fa-film fa-lg
@@ -215,27 +220,108 @@
           description: 紫微斗数前端爱好者开发
    
       
-- taxonomy: 素材资源
+- taxonomy: AI集合
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
+    - term: AI网红
+      links: 
+       - title: claude 3
+          logo: https://www.finechat.ai/favicon.ico
+          url: https://www.finechat.ai/
+          description: 免费访问claude 3
+        - title: 文心一言
+          logo: https://yiyan.baidu.com/favicon.ico
+          url: https://yiyan.baidu.com/welcome
+          description: 国内版 GPT，需要申请账号，协助写作，回答问题
+        
+    - term: AI工具
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
+        - title: claude 3
+          logo: https://www.finechat.ai/favicon.ico
+          url: https://www.finechat.ai/
+          description: 免费访问claude 3
+        - title: 文心一言
+          logo: https://yiyan.baidu.com/favicon.ico
+          url: https://yiyan.baidu.com/welcome
+          description: 国内版 GPT，需要申请账号，协助写作，回答问题
+        - title: 必应Copilot
+          logo: https://www.bing.com/favicon.ico
+          url: https://www.bing.com/chat?
           description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
+        - title: 钉钉AI
+          logo: https://page.dingtalk.com/favicon.ico
+          url: https://page.dingtalk.com/wow/dingtalk/default/dingtalk/I0HfYX4QStBIpLgxnZQe
+          description: 集成在钉钉里面的ai工具
+        - title: chatgpt
+          logo: https://chat.openai.com/favicon.ico   
+          url: https://chat.openai.com/
+          description: chatpgt
+    - term: AI办公
+      links:  
+        - title: 写作猫
+          logo: hhttps://xiezuocat.com/favicon.ico
+          usrl: https://xiezuocat.com/?s=aigj
+          description: 国内免费，集AI写作、多人协作、文本校对，改写润色，自动配图等功能为一体
+        - title: 讯飞星火
+          logo: https://xinghuo.xfyun.cn/favicon.ico
+          usrl: https://xinghuo.xfyun.cn/
+          description: 讯飞星火
+        - title: copy ai
+          logo: https://www.copy.ai/favicon.ico
+          usrl: https://www.copy.ai/
+          description: 需要梯子，每月免费2000个
+    - term: AI办公  
+        - title: 爱设计PPT
+          logo: https://ppt.isheji.com/favicon.ico
+          usrl: https://ppt.isheji.com/
+          description: AI一键智能PPT
+        - title: 美图AI PPT
+          logo: https://design.meitu.com/favicon.ico
+          usrl: https://design.meitu.com/ppt/?ref=ai-bot.cn
+          description: 美图免费PPT工具
+        - title: chatmind
+          logo: https://www.chatmind.tech/favicon.ico
+          usrl: https://www.chatmind.tech/?ref=ai-bot.cn
+          description: 和 AI 对话生成思维导图
+        - titile:  酷表
+          logo: https://chatexcel.com/favicon.ico
+          url: https://chatexcel.com/
+          description: AI表格处理工具
+    - term: AI画图
+      - title: Minister ai
+          logo: https://mst.ai/home/favicon.ico
+          usrl: https://mst.ai/home
+          description: 
+        - title: 海艺AI 
+          logo: https://www.seaart.ai/favicon.ico
+          usrl: https://www.seaart.ai/home
+          description: 超强的 AI 绘画网站，超高出图质量和速度
+        - title: photoroom
+          logo: https://www.chatmind.tech/favicon.ico
+          usrl: https://www.photoroom.com/background-remover
+          description: 免费的 AI 抠图工具，无需注册
+        - titile: WHEE
+          logo: https://www.whee.com/favicon.ico
+          url: https://www.whee.com/?utm_source=ai-bot.cn
+          description: 美图秀秀工具， 免费使用，支持文生图、生图
+   - term: AI音频
+      - title: 网易天音
+          logo: https://tianyin.music.163.com/favicon.ico
+          usrl: https://tianyin.music.163.com/
+          description: 网易的免费音乐创作工具
+        - title: 讯飞智作
+          logo: https://peiyin.xunfei.cn/favicon.ico
+          usrl: https://peiyin.xunfei.cn/?utm_source=ai-bot.cn
+          description: AI 配音工具，文字转语音、语音合成等
+        - title: 魔音工坊
+          logo: https://www.moyin.com/favicon.ico
+          usrl: https://www.moyin.com/?ref= ai-bot.cn
+          description: 短视频/有声书配音平台
+        - titile: WHEE
+          logo: https://fliki.ai/favicon.ico
+          url: https://fliki.ai/
+          description: AI 文字转视频并配音
+        
     - term: 图标素材
       links:
         - title: Iconfinder
