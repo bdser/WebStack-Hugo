@@ -248,10 +248,6 @@
           logo: https://www.bing.com/favicon.ico
           url: https://www.bing.com/chat?
           description: 家庭云|网盘|文件备份|资源分享。
-        - title: 钉钉AI
-          logo: https://page.dingtalk.com/favicon.ico
-          url: https://page.dingtalk.com/wow/dingtalk/default/dingtalk/I0HfYX4QStBIpLgxnZQe
-          description: 集成在钉钉里面的ai工具
         - title: chatgpt
           logo: https://chat.openai.com/favicon.ico   
           url: https://chat.openai.com/
@@ -270,6 +266,10 @@
           logo: https://www.copy.ai/favicon.ico
           usrl: https://www.copy.ai/
           description: 需要梯子，每月免费2000个
+        - title: 钉钉AI
+          logo: https://page.dingtalk.com/favicon.ico
+          url: https://page.dingtalk.com/wow/dingtalk/default/dingtalk/I0HfYX4QStBIpLgxnZQe
+          description: 集成在钉钉里面的ai工具
     - term: AI办公
       links:
         - title: 爱设计PPT
@@ -291,7 +291,7 @@
     - term: AI画图
       links:
         - title: Minister ai
-          logo: https://mst.ai/home/favicon.ico
+          logo: https://mst.ai/favicon.ico
           usrl: https://mst.ai/home
           description: 
         - title: 海艺AI 
@@ -302,8 +302,6 @@
           logo: https://www.chatmind.tech/favicon.ico
           usrl: https://www.photoroom.com/background-remover
           description: 免费的 AI 抠图工具，无需注册
-
-          
         - title: 美图秀秀工具
           logo: https://www.whee.com/favicon.ico
           url: https://www.whee.com/?utm_source=ai-bot.cn
