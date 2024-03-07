@@ -302,6 +302,8 @@
           logo: https://www.chatmind.tech/favicon.ico
           usrl: https://www.photoroom.com/background-remover
           description: 免费的 AI 抠图工具，无需注册
+
+          
         - title: 美图秀秀工具
           logo: https://www.whee.com/favicon.ico
           url: https://www.whee.com/?utm_source=ai-bot.cn
@@ -320,11 +322,10 @@
           logo: https://www.moyin.com/favicon.ico
           usrl: https://www.moyin.com/?ref= ai-bot.cn
           description: 短视频/有声书配音平台
-        - title: WHEE
+        - title: fliki
           logo: https://fliki.ai/favicon.ico
           url: https://fliki.ai/
           description: AI 文字转视频并配音
-        
     - term: 图标素材
       links:
         - title: Iconfinder
