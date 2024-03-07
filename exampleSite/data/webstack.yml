@@ -37,15 +37,15 @@
           logo: https://cn.tradingview.com/favicon.ico
           url: https://www.tradingview.com/
           description: 专业看盘工具
-
-        - title: aicoinf
+        - title: aicoin
           logo: https://www.aicoin.com/favicon.ico
-          url: https://www.aicoin.com/zh-CN
+          url: https://www.aicoin.com/chart/binance_btcusdt
           description: 国人看盘工具
-        - title: tradingview
-          logo: https://cn.tradingview.com/favicon.ico
-          url: https://www.tradingview.com/
-          description: 看盘工具
+        - title: Crypto Bubbles
+          logo: https://cryptobubbles.net/
+          url: https://cryptobubbles.net/
+          description: 非常推荐，通过气泡图的形式展示加密货币
+
         - title: 金色财经
           logo: https://www.jinse.cn/favicon.ico
           url: hhttps://www.jinse.cn/
@@ -68,10 +68,11 @@
           logo: https://www.coinglass.com/favicon.ico
           url: https://www.coinglass.com/zh/LiquidationData 
           description: 币圈合约数据网站
-        - title: Crypto Bubbles
-          logo: https://cryptobubbles.net/
-          url: https://cryptobubbles.net/
-          description: 非常推荐，通过气泡图的形式展示加密货币
+        - title: Foresight News
+          logo: https://foresightnews.pro/favicon.ico
+          url: https://foresightnews.pro/
+          description: 亚太地区最具影响力的Web3媒体之一
+
     - term: 链上数据
       links:
         - title: Memepool
