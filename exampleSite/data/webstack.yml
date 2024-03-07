@@ -7,13 +7,6 @@
       logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
     - title: GitHub
       logo: github.png
