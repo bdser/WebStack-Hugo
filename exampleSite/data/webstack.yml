@@ -284,7 +284,7 @@
           logo: https://www.chatmind.tech/favicon.ico
           usrl: https://www.chatmind.tech/?ref=ai-bot.cn
           description: 和 AI 对话生成思维导图
-        - titile:  酷表
+        - title:  酷表
           logo: https://chatexcel.com/favicon.ico
           url: https://chatexcel.com/
           description: AI表格处理工具
@@ -302,7 +302,7 @@
           logo: https://www.chatmind.tech/favicon.ico
           usrl: https://www.photoroom.com/background-remover
           description: 免费的 AI 抠图工具，无需注册
-        - titile: WHEE
+        - title: 美图秀秀工具
           logo: https://www.whee.com/favicon.ico
           url: https://www.whee.com/?utm_source=ai-bot.cn
           description: 美图秀秀工具， 免费使用，支持文生图、生图
@@ -320,7 +320,7 @@
           logo: https://www.moyin.com/favicon.ico
           usrl: https://www.moyin.com/?ref= ai-bot.cn
           description: 短视频/有声书配音平台
-        - titile: WHEE
+        - title: WHEE
           logo: https://fliki.ai/favicon.ico
           url: https://fliki.ai/
           description: AI 文字转视频并配音
