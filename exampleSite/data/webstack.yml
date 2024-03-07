@@ -290,7 +290,7 @@
           description: AI表格处理工具
     - term: AI画图
       links:
-      - title: Minister ai
+        - title: Minister ai
           logo: https://mst.ai/home/favicon.ico
           usrl: https://mst.ai/home
           description: 
@@ -308,7 +308,7 @@
           description: 美图秀秀工具， 免费使用，支持文生图、生图
    - term: AI音频
      links:
-      - title: 网易天音
+        - title: 网易天音
           logo: https://tianyin.music.163.com/favicon.ico
           usrl: https://tianyin.music.163.com/
           description: 网易的免费音乐创作工具
