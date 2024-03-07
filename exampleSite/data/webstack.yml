@@ -225,7 +225,7 @@
   list:
     - term: AI网红
       links: 
-       - title: claude 3
+        - title: claude 3
           logo: https://www.finechat.ai/favicon.ico
           url: https://www.finechat.ai/
           description: 免费访问claude 3
