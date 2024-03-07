@@ -91,10 +91,6 @@
           logo: https://icoanalytics.org/favicon.ico
           url: https://icoanalytics.org/
           description: 空投，一个全面的融资信息查询工具
-        - title: Crypto Bubbles
-          logo: https://cryptobubbles.net/
-          url: https://cryptobubbles.net/
-          description: 非常推荐-通过气泡图的形式展示加密货币
         - title: RootData
           logo: https://www.rootdata.com/favicon.ico
           url: https://www.rootdata.com/
@@ -221,7 +217,7 @@
           url: https://bbs.china95.net/
           description: 周易综合信息论坛
         - title: 紫微斗数
-          logo: https://ziwei.pro/favicon.ico
+          logo: https://ziwei.pub/favicon.ico
           url: https://ziwei.pro/learn/basis.html
           description: 紫微斗数前端爱好者开发
    
