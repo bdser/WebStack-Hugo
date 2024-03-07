@@ -6,6 +6,18 @@
       logo: https://blog.bdser.cc/favicon.ico
       url: https://blog.bdser.cc
       description: 作者博客
+    - title: okx注册
+      logo: https://www.ouxyi.clinic/favicon.ico
+      url: https://www.ouxyi.clinic/join/3137179
+      description: okx新用户注册，返佣30%
+    - title: 币安注册
+      logo: https://www.binance.com/favicon.ico
+      url:  https://www.binance.com/zh-CN/activity/referral-entry/CPA?ref=CPA_00KQ1WWEEL
+      description: 币安新用户注册，返佣20%
+    - title: WildCard信用卡
+      logo:  https://bewildcard.com/favicon.ico
+      url: https://bewildcard.com/i/DONGSHU
+      description: 可以购买chatgptplus，Mj画图等
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
