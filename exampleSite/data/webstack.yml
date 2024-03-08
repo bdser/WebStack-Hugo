@@ -18,6 +18,26 @@
       logo:  https://bewildcard.com/favicon.ico
       url: https://bewildcard.com/i/DONGSHU
       description: 可以购买chatgptplus，Mj画图等
+- taxonomy: 本人常用
+  icon: fas fa-medal
+  links:
+    - title: discord 
+      logo: https://discord.com/favicon.ico
+      url: https://discord.com/channels/1183623545159434310/1183643121209331752
+      description: discord聊天工具
+    - title: notion 
+      logo: https://www.notion.so/favicon.ico
+      url: https://www.notion.so/bdser/bc7f9895847f4a22872c60a9b8cca4b1
+      description: 个人notion账本
+    - title: twitter
+      logo: https://twitter.com/favicon.ico
+      url: https://twitter.com/home
+      description: 个人twitter账号
+    - title: 新浪微博
+      logo: https://weibo.com/favicon.ico
+      url: https://weibo.com/u/6214332021
+      description: 个人新浪微博
+    
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
