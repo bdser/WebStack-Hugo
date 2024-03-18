@@ -3,12 +3,12 @@
   icon: fas fa-medal
   links: 
     - title: 博客
-      logo: https://blog.bdser.cc/favicon.ico
-      url: https://blog.bdser.cc
+      logo: https://blog.budongshu.cn/favicon.ico
+      url: https://blog.budongshu.cn
       description: 作者博客
     - title: okx注册
       logo: https://www.okx.com/favicon.ico
-      url: https://www.ouxyi.supply/join/3137179
+      url: https://www.okx.com/cn/join/3137179
       description: okx新用户注册，返佣30%
     - title: 币安注册
       logo: https://bin.bnbstatic.com/static/images/common/logo.png
