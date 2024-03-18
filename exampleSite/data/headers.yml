@@ -11,6 +11,6 @@
   link: ""
   list:
     - name: 教程
-      url: https://github.com/bdser/WebStack-Hugo
+      url: http://blog.budongshu.cn/archives/%E9%81%93%E8%8D%89%7C%E4%B8%AA%E4%BA%BA%E5%AF%BC%E8%88%AA%E5%85%8D%E8%B4%B9%E6%8B%A5%E6%9C%89
     - name: 源码
       url: https://github.com/bdser/WebStack-Hugo
