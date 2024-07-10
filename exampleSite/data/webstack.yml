@@ -37,6 +37,11 @@
       logo: https://weibo.com/favicon.ico
       url: https://weibo.com/u/6214332021
       description: 个人新浪微博
+    - title: 八字算命
+      logo: https://pibazi.china95.net/favicon.ico
+      url: https://pibazi.china95.net/bazi.aspx?PID=2024071016250415 
+      description: 八字算命
+      
     
 - taxonomy: 常用推荐
   icon: far fa-star
